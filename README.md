@@ -1,4 +1,2 @@
 # demoMultiBranch
-multi branch repo
-
-this is the main branch
+this is the feature1 branch
