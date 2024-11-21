@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                
-                bat "Readme.md"
+                bat "type Readme.md"
             }
         }
     }
